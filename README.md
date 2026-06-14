@@ -18,7 +18,4 @@
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true)
 ---
-
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/Dritikakotian/Dritikakotian/output/github-contribution-grid-snake.svg)
