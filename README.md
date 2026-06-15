@@ -5,6 +5,7 @@
 - 💻 Learning Python, GitHub & AI
 - 🌱 Exploring Tech and Open Source
 - ✨ Building projects and improving skills
+- 🚀 Turning coffee into code and ideas into projects.
 
 ---
 
