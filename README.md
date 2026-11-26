@@ -1,130 +1,66 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:C026D3,100:22C55E&height=220&section=header&text=Hey%2C%20I'm%20Dritika%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20Hackathoner%20%E2%80%A2%20Shipping%20real%20things&descAlignY=58&descSize=18" alt="header" />
+  <img src="./assets/hero.svg" width="100%" alt="Hey, I'm Dritika: building tools developers actually use, shipping mobile apps, exploring AI, ML and robotics" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C026D3&center=true&vCenter=true&width=650&lines=Building+tools+developers+actually+use+%F0%9F%9B%A0%EF%B8%8F;Mobile+apps+with+React+Native+%2B+Expo+%F0%9F%93%B1;Local-first%2C+privacy-first+software+%F0%9F%94%92;Turning+hackathon+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dritikakotian&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Dritikakotian?tab=followers"><img src="https://img.shields.io/github/followers/Dritikakotian?label=FOLLOWERS&style=for-the-badge&color=ec4899&logo=github&labelColor=0b0b14" alt="followers" /></a>
+  <a href="https://github.com/Dritikakotian?tab=repositories"><img src="https://img.shields.io/github/stars/Dritikakotian?affiliations=OWNER&label=STARS&style=for-the-badge&color=22c55e&logo=github&labelColor=0b0b14" alt="stars" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dritikakotian&label=Profile%20views&color=c026d3&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/Dritikakotian?tab=followers"><img src="https://img.shields.io/github/followers/Dritikakotian?label=Followers&style=for-the-badge&color=22c55e&logo=github" alt="followers" /></a>
-  <a href="https://github.com/Dritikakotian?tab=repositories"><img src="https://img.shields.io/github/stars/Dritikakotian?affiliations=OWNER&label=Stars&style=for-the-badge&color=8e2de2&logo=github" alt="stars" /></a>
+  <img src="./assets/terminal.svg" width="100%" alt="whoami: Dritika, engineering student, builder, hackathoner. Stack: Python, TypeScript, React Native, Expo, Flutter, Supabase, Firebase, SQLite, NumPy, Pandas, scikit-learn, MATLAB. Learning: AI, ML, robotics." />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧠 About me
-
-```js
-const dritika = {
-  role:       "Engineering Student 🎓",
-  building:   ["Project Rewind", "Guardian"],
-  loves:      ["developer tools", "mobile apps", "hackathons"],
-  stack:      ["Python", "TypeScript", "React Native", "Expo", "Supabase", "Flutter"],
-  learning:   ["Artificial Intelligence", "Machine Learning", "Robotics"],
-  philosophy: "Local-first. Privacy-first. Ship it, then make it great.",
-  fuel:       "☕ → 💻 → 🚀",
-};
-```
-
-- 🎓 **Engineering student** turning coffee into code and ideas into projects
-- 🚀 I build **developer tools** and **mobile apps** end to end: idea → design → code → demo
-- 🏆 Hackathon regular: I pitch it, build it, and demo it live
-- 🔒 I care about **privacy**: my tools keep your data on your machine
-- 🌱 Currently going deep on **AI coding agents**, **MCP** and **React Native**
-- 💬 Ask me about **VS Code extensions, Expo, Supabase, SQLite**
-
----
-
-## 🛠️ Tech stack
+<h2 align="center">⚡ Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css&perline=12" alt="languages" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,supabase,firebase,sqlite&perline=12" alt="frameworks" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,androidstudio,figma&perline=12" alt="tools" />
-</p>
-
-<h3 align="center">📊 Data Science & AI</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
-</p>
-
-<h3 align="center">🤖 Currently learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00C853?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-2962FF?style=for-the-badge" alt="ML" />
-  <img src="https://img.shields.io/badge/Robotics-D50000?style=for-the-badge" alt="Robotics" />
-</p>
-
----
-
-## 🌟 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⏪ [Project Rewind](https://github.com/Dritikakotian/project-rewind)
-**Persistent memory for developers and AI coding agents.**
-
-Rewind records what you're doing, what failed and *why* you decided things, so you (or your AI) can pick up exactly where you stopped.
-
-- 🧩 VS Code extension + Python engine
-- 🕸️ Interactive context graph of tasks, errors, attempts and decisions
-- 🤖 MCP server so any AI agent can read the same memory
-- 🔒 100% local: SQLite + git, **zero** third-party dependencies
-- ✅ 71 automated tests
-
-`Python` `JavaScript` `SQLite` `VS Code API` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Guardian
-**A personal-safety app in your pocket.**
-
-One-touch SOS, live location sharing and safe journeys with route alerts.
-
-- 🚨 SOS + emergency recording
-- 📍 Live tracking & safety map
-- 👥 Trusted contacts & community alerts
-- 📞 Fake call & safety check-in timer
-- 🤖 AI safety assistant
-
-`React Native` `Expo` `TypeScript` `Supabase`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c026d3&icon_color=22c55e&text_color=e6edf3&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dritikakotian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c026d3&text_color=e6edf3&langs_count=8" alt="top languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,html,css,react,nodejs&perline=8&theme=dark" alt="languages and frameworks" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,supabase,firebase,sqlite,git,github,githubactions,vscode&perline=8&theme=dark" alt="platforms and tools" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dritikakotian&theme=radical&hide_border=true&background=0d1117&ring=c026d3&fire=22c55e&currStreakLabel=c026d3" alt="streak" />
+  <img src="https://img.shields.io/badge/React_Native-0b0b14?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0b0b14?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/NumPy-0b0b14?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0b0b14?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-0b0b14?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/MATLAB-0b0b14?style=for-the-badge&logo=mathworks&logoColor=FF6F00" alt="MATLAB" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">🚀 Things I've built</h2>
+
+<p align="center">
+  <a href="https://github.com/Dritikakotian/project-rewind"><img src="./assets/card-rewind.svg" width="49%" alt="Project Rewind: persistent memory for developers and AI agents" /></a>
+  <img src="./assets/card-guardian.svg" width="49%" alt="Guardian: a personal-safety app with SOS, live location and safe journeys" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">🏙️ My contribution skyline</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+  </picture>
+</p>
+
+<h2 align="center">📊 By the numbers</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=c084fc&icon_color=22c55e&text_color=e5e7eb&ring_color=ec4899&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dritikakotian&layout=compact&hide_border=true&bg_color=0b0b14&title_color=c084fc&text_color=e5e7eb&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dritikakotian&bg_color=0d1117&color=e6edf3&line=c026d3&point=22c55e&area=true&area_color=8e2de2&hide_border=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Dritikakotian&hide_border=true&background=0b0b14&ring=a855f7&fire=ec4899&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=c084fc&sideLabels=c084fc&dates=9ca3af&stroke=1f2937" alt="streak" />
 </p>
-
----
-
-## 🐍 Watch my contributions get eaten
 
 <p align="center">
   <picture>
@@ -134,18 +70,14 @@ One-touch SOS, live location sharing and safe journeys with route alerts.
   </picture>
 </p>
 
----
-
-## 🤝 Let's connect
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <a href="https://github.com/Dritikakotian"><img src="https://img.shields.io/badge/GitHub-Dritikakotian-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/Dritikakotian"><img src="https://img.shields.io/badge/GitHub-Dritikakotian-0b0b14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <!-- To add: replace # with your link and remove the comment markers
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-C026D3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b0b14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0b0b14?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Portfolio" /></a>
   -->
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:C026D3,100:8E2DE2&height=120&section=footer" alt="footer" />
-</p>
+<p align="center"><sub>✨ Built with curiosity, caffeine and a lot of <code>git push</code> ✨</sub></p>

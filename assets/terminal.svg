@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" fill="none">
+  <style>
+    .m { font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; font-size: 17px; }
+    .p { fill: #22c55e; } .c { fill: #e5e7eb; } .o { fill: #9ca3af; }
+    .k { fill: #c084fc; } .s { fill: #fbbf24; } .b { fill: #22d3ee; } .pk { fill: #f472b6; }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/><stop offset=".5" stop-color="#1f2937"/><stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1b2b"/><stop offset="1" stop-color="#13131f"/>
+    </linearGradient>
+    <!-- one clip per typed line; widths animate so text "types" in -->
+    <clipPath id="l1"><rect x="40" y="70"  height="30" width="0"><animate attributeName="width" from="0" to="900" dur="0.6s" begin="0.4s" fill="freeze" calcMode="discrete" values="0;40;80;120;160;900" keyTimes="0;.2;.4;.6;.8;1"/></rect></clipPath>
+    <clipPath id="l2"><rect x="40" y="100" height="30" width="0"><animate attributeName="width" to="920" dur="0.01s" begin="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="40" y="144" height="30" width="0"><animate attributeName="width" values="0;60;120;180;240;300;920" keyTimes="0;.17;.33;.5;.67;.83;1" calcMode="discrete" dur="0.8s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="40" y="172" height="140" width="0"><animate attributeName="width" to="920" dur="0.01s" begin="2.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="40" y="318" height="30" width="0"><animate attributeName="width" values="0;60;120;180;240;920" keyTimes="0;.2;.4;.6;.8;1" calcMode="discrete" dur="0.7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l6"><rect x="40" y="346" height="30" width="0"><animate attributeName="width" to="920" dur="0.01s" begin="4.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l7"><rect x="40" y="390" height="30" width="0"><animate attributeName="width" values="0;60;120;180;920" keyTimes="0;.25;.5;.75;1" calcMode="discrete" dur="0.6s" begin="4.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l8"><rect x="40" y="418" height="30" width="0"><animate attributeName="width" to="920" dur="0.01s" begin="5.5s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="998" height="468" rx="18" fill="#0b0b14" stroke="url(#bd)" stroke-width="2"/>
+  <path d="M2 19a17 17 0 0 1 17-17h962a17 17 0 0 1 17 17v29H2z" fill="url(#top)"/>
+  <circle cx="30" cy="25" r="7" fill="#ff5f57"/><circle cx="54" cy="25" r="7" fill="#febc2e"/><circle cx="78" cy="25" r="7" fill="#28c840"/>
+  <text x="500" y="30" text-anchor="middle" class="m o" font-size="14">dritika@github: ~/profile — zsh</text>
+  <line x1="2" y1="48" x2="998" y2="48" stroke="#ffffff" stroke-opacity=".06"/>
+
+  <g class="m">
+    <g clip-path="url(#l1)"><text x="40" y="92"><tspan class="p">➜ </tspan><tspan class="b">~ </tspan><tspan class="c">whoami</tspan></text></g>
+    <g clip-path="url(#l2)"><text x="40" y="122" class="c">dritika <tspan class="o">—</tspan> <tspan class="pk">engineering student</tspan> <tspan class="o">·</tspan> builder <tspan class="o">·</tspan> hackathoner</text></g>
+
+    <g clip-path="url(#l3)"><text x="40" y="166"><tspan class="p">➜ </tspan><tspan class="b">~ </tspan><tspan class="c">cat stack.json</tspan></text></g>
+    <g clip-path="url(#l4)">
+      <text x="40" y="194" class="o">{</text>
+      <text x="64" y="220"><tspan class="k">"languages"</tspan><tspan class="o">: [</tspan><tspan class="s">"Python"</tspan><tspan class="o">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="o">, </tspan><tspan class="s">"JavaScript"</tspan><tspan class="o">, </tspan><tspan class="s">"Dart"</tspan><tspan class="o">],</tspan></text>
+      <text x="64" y="246"><tspan class="k">"mobile"</tspan><tspan class="o">:    [</tspan><tspan class="s">"React Native"</tspan><tspan class="o">, </tspan><tspan class="s">"Expo"</tspan><tspan class="o">, </tspan><tspan class="s">"Flutter"</tspan><tspan class="o">],</tspan></text>
+      <text x="64" y="272"><tspan class="k">"backend"</tspan><tspan class="o">:   [</tspan><tspan class="s">"Supabase"</tspan><tspan class="o">, </tspan><tspan class="s">"Firebase"</tspan><tspan class="o">, </tspan><tspan class="s">"SQLite"</tspan><tspan class="o">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="o">],</tspan></text>
+      <text x="64" y="298"><tspan class="k">"data"</tspan><tspan class="o">:      [</tspan><tspan class="s">"NumPy"</tspan><tspan class="o">, </tspan><tspan class="s">"Pandas"</tspan><tspan class="o">, </tspan><tspan class="s">"scikit-learn"</tspan><tspan class="o">, </tspan><tspan class="s">"MATLAB"</tspan><tspan class="o">] }</tspan></text>
+    </g>
+
+    <g clip-path="url(#l5)"><text x="40" y="340"><tspan class="p">➜ </tspan><tspan class="b">~ </tspan><tspan class="c">ls ./learning</tspan></text></g>
+    <g clip-path="url(#l6)"><text x="40" y="368"><tspan class="b">artificial-intelligence/</tspan>   <tspan class="b">machine-learning/</tspan>   <tspan class="b">robotics/</tspan>   <tspan class="b">ai-agents/</tspan></text></g>
+
+    <g clip-path="url(#l7)"><text x="40" y="412"><tspan class="p">➜ </tspan><tspan class="b">~ </tspan><tspan class="c">echo $MOTTO</tspan></text></g>
+    <g clip-path="url(#l8)"><text x="40" y="440" class="pk">"Local-first. Privacy-first. Ship it, then make it great." <tspan class="c cur">█</tspan></text></g>
+  </g>
+</svg>
