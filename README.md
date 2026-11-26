@@ -2,6 +2,11 @@
   <img src="./assets/hero.svg" width="100%" alt="Dritika: engineering student building with Python and AI" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dritikakotian&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Dritikakotian?tab=followers"><img src="https://img.shields.io/github/followers/Dritikakotian?label=FOLLOWERS&style=for-the-badge&color=ec4899&logo=github&labelColor=0b0b14" alt="followers" /></a>
+</p>
+
 ### Hi, I'm Dritika 👋
 
 I'm an **engineering student** who likes turning ideas into working software. I build tools in **Python**, explore **AI and machine learning**, and care about software that is simple, fast and respects people's privacy. Most of what I learn, I learn by shipping it.
