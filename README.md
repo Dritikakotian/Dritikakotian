@@ -119,10 +119,6 @@ One-touch SOS, live location sharing and safe journeys with route alerts.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dritikakotian&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
-</p>
-
-<p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dritikakotian&bg_color=0d1117&color=e6edf3&line=c026d3&point=22c55e&area=true&area_color=8e2de2&hide_border=true" alt="activity graph" />
 </p>
 
