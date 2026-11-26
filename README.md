@@ -1,83 +1,36 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Hey, I'm Dritika: building tools developers actually use, shipping mobile apps, exploring AI, ML and robotics" />
-</p>
+# Hi there 👋 I'm Dritika
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dritikakotian&label=PROFILE%20VIEWS&color=a855f7&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/Dritikakotian?tab=followers"><img src="https://img.shields.io/github/followers/Dritikakotian?label=FOLLOWERS&style=for-the-badge&color=ec4899&logo=github&labelColor=0b0b14" alt="followers" /></a>
-  <a href="https://github.com/Dritikakotian?tab=repositories"><img src="https://img.shields.io/github/stars/Dritikakotian?affiliations=OWNER&label=STARS&style=for-the-badge&color=22c55e&logo=github&labelColor=0b0b14" alt="stars" /></a>
-</p>
+## 🚀 About Me
+- 🎓 Engineering Student
+- 💻 Learning Python, GitHub & AI
+- 🌱 Exploring Tech and Open Source
+- ✨ Building projects and improving skills
+- 🚀 Turning coffee into code and ideas into projects.
 
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="whoami: Dritika, engineering student, builder, hackathoner. Stack: Python, TypeScript, React Native, Expo, Flutter, Supabase, Firebase, SQLite, NumPy, Pandas, scikit-learn, MATLAB. Learning: AI, ML, robotics." />
-</p>
+---
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+## 🛠️ Tech Stack
 
-<h2 align="center">⚡ Arsenal</h2>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,html,css,react,nodejs&perline=8&theme=dark" alt="languages and frameworks" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,supabase,firebase,sqlite,git,github,githubactions,vscode&perline=8&theme=dark" alt="platforms and tools" />
-</p>
+### 📊 Data Science & AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0b0b14?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-0b0b14?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/NumPy-0b0b14?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-0b0b14?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-0b0b14?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/MATLAB-0b0b14?style=for-the-badge&logo=mathworks&logoColor=FF6F00" alt="MATLAB" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### 🤖 Currently Learning
 
-<h2 align="center">🚀 Things I've built</h2>
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00C853?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2962FF?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-D50000?style=for-the-badge)
+---
 
-<p align="center">
-  <a href="https://github.com/Dritikakotian/project-rewind"><img src="./assets/card-rewind.svg" width="49%" alt="Project Rewind: persistent memory for developers and AI agents" /></a>
-  <img src="./assets/card-guardian.svg" width="49%" alt="Guardian: a personal-safety app with SOS, live location and safe journeys" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">🏙️ My contribution skyline</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
-  </picture>
-</p>
-
-<h2 align="center">📊 By the numbers</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=c084fc&icon_color=22c55e&text_color=e5e7eb&ring_color=ec4899&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dritikakotian&layout=compact&hide_border=true&bg_color=0b0b14&title_color=c084fc&text_color=e5e7eb&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dritikakotian&hide_border=true&background=0b0b14&ring=a855f7&fire=ec4899&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=c084fc&sideLabels=c084fc&dates=9ca3af&stroke=1f2937" alt="streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dritikakotian/Dritikakotian/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dritikakotian/Dritikakotian/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dritikakotian/Dritikakotian/output/github-snake.svg" />
-  </picture>
-</p>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<p align="center">
-  <a href="https://github.com/Dritikakotian"><img src="https://img.shields.io/badge/GitHub-Dritikakotian-0b0b14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- To add: replace # with your link and remove the comment markers
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b0b14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0b0b14?style=for-the-badge&logo=googlechrome&logoColor=C084FC" alt="Portfolio" /></a>
-  -->
-</p>
-
-<p align="center"><sub>✨ Built with curiosity, caffeine and a lot of <code>git push</code> ✨</sub></p>
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true)
+---
+![Snake animation](https://raw.githubusercontent.com/Dritikakotian/Dritikakotian/output/github-contribution-grid-snake.svg)
