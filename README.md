@@ -54,7 +54,7 @@
 <h2 align="center">📊 By the numbers</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=c084fc&icon_color=22c55e&text_color=e5e7eb&ring_color=ec4899&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dritikakotian&show_icons=true&hide_border=true&bg_color=0b0b14&title_color=c084fc&icon_color=22c55e&text_color=e5e7eb&ring_color=ec4899&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dritikakotian&layout=compact&hide_border=true&bg_color=0b0b14&title_color=c084fc&text_color=e5e7eb&langs_count=8" alt="top languages" />
 </p>
 
